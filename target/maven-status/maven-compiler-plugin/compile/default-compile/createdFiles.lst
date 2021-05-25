@@ -1,0 +1,6 @@
+com\qa\factory\DriverFactory.class
+com\qa\util\ConfigReader.class
+com\qa\util\ElementUtil.class
+com\qa\util\Constants.class
+com\Pages\AccountsPage.class
+com\Pages\LoginPage.class
